@@ -1,2 +1,2 @@
-# lantern2
-IEEE LANTERN WEBSITE
+# IEEE lantern
+Lantern is the flagship Event of IEEE Sahrdaya SB (Website)
